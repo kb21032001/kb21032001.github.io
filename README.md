@@ -1,1 +1,3 @@
-# kb21032001.github.io
+Kshitij Bhardwaj
+
+Note: this repository is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
