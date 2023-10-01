@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #09a5d4 repeat;
+  background: #0f7e92 repeat;
   position: relative;
 }
 
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #0f7e92 !important;
+  color: #09a5d4 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #0f7e92 !important;
+  background-color: #09a5d4 !important;
 }
 
 /* .teal {
