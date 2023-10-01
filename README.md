@@ -14,3 +14,8 @@ Activity 3:
 ![image](https://github.com/kb21032001/kb21032001.github.io/assets/74607528/fefa0e07-cb5c-4bcc-8e21-347ae52c521f)
 
 ![image](https://github.com/kb21032001/kb21032001.github.io/assets/74607528/b5b744ca-c0fa-4e4f-86fe-b13d9ad99ab3)
+
+Activity 4:
+![image](https://github.com/kb21032001/kb21032001.github.io/assets/74607528/9536f2bc-d966-40cd-8a3d-f75210b30f51)
+
+![image](https://github.com/kb21032001/kb21032001.github.io/assets/74607528/0aa75709-0c76-4e95-8c0f-ac086f058f62)
